@@ -76,8 +76,8 @@ A project carrying the only title appropriate for this profile.
 <tr>
 <td width="50%" valign="top">
 
-### [splatoon-blender](https://github.com/Shadorux/splatoon-blender)
-Tools and resources crossing Splatoon with Blender creation workflows.
+### [GuildScope](https://github.com/Shadorux/GuildScope)
+Visual Discord permission inspector for mapping channel access across roles, detecting permission drift, and simulating role combinations.
 
 </td>
 <td width="50%" valign="top">
