@@ -135,6 +135,8 @@ If something here looks interesting, dig through the repositories.
 
 ### `WELCOME TO THE SHADORUX ZONE.`
 
-![Shadow](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHFiaTNmc3A4bGx3dXVvN3NkdWIzcW4xOThiZ3Zwa2l1MHh6eHhjMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ER5u3u7LWgj7BYVx6D/giphy.gif)
+<a href="https://youtu.be/GXioir-fujY">
+  <img src="https://img.youtube.com/vi/GXioir-fujY/maxresdefault.jpg" alt="No Batidão" width="700">
+</a>
 
 </div>
