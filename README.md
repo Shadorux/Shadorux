@@ -103,6 +103,7 @@ A public Luau library for building and scripting obbies.
 
 [![MAIN SITE](https://img.shields.io/badge/SHADORUX.DEV-MAIN%20SITE-FF0000?style=for-the-badge&labelColor=000000)](https://shadorux.dev)
 [![SHADOW SHRINE](https://img.shields.io/badge/SHADOW-SHRINE-FF0000?style=for-the-badge&labelColor=000000)](https://shadow-shrine.vercel.app/)
+[![SHADORUX ARCHIVE](https://img.shields.io/badge/SHADORUX-ARCHIVE-FF0000?style=for-the-badge&labelColor=000000)](https://shadorux-archive.shadorux.dev/)
 [![LAST.FM](https://img.shields.io/badge/LAST.FM-ULTLIFEFORM_-FF0000?style=for-the-badge&logo=lastdotfm&logoColor=white&labelColor=000000)](https://www.last.fm/user/ultlifeform_)
 
 </div>
