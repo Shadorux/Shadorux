@@ -82,8 +82,8 @@ Tools and resources crossing Splatoon with Blender creation workflows.
 </td>
 <td width="50%" valign="top">
 
-### [ObbyLib](https://github.com/Shadorux/ObbyLib)
-A public Luau library for building and scripting obbies.
+### [UltimatePalette](https://github.com/Shadorux/UltimatePalette)
+Extract perceptually distinct palettes, contrast pairs, semantic color roles, CSS variables, Tailwind tokens, and swatches from any image. **[Try it live →](https://ultimatepallete.shadorux.dev)**
 
 </td>
 </tr>
