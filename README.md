@@ -119,7 +119,7 @@ Extract perceptually distinct palettes, contrast pairs, semantic color roles, CS
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=Shadorux&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=Shadorux&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&timezone=America%2FNew_York" alt="GitHub streak" />
 
 </div>
 
