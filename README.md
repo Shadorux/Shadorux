@@ -25,7 +25,7 @@
 IDENTITY     Shadorux The Hedgehog
 CLASS        Developer / Designer / Ultimate Lifeform
 STATUS       ONLINE
-MISSION      Build cool things. Leave a recognizable footprint.
+MISSION      Build cool things. Ship fast. Leave a recognizable footprint.
 ALIGNMENT    Shadow the Hedgehog enthusiast
 ```
 
