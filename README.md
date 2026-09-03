@@ -106,7 +106,7 @@ Extract perceptually distinct palettes, contrast pairs, semantic color roles, CS
 I take on focused debugging and bug-fixing work through Fiverr.
 
 <a href="https://www.fiverr.com/s/L3e1ax4">
-  <img width="600" alt="Hire me" src="https://github.com/user-attachments/assets/1a050d86-5d77-403b-bd44-593dad3d566b" />
+  <img width="360" alt="Hire me" src="https://github.com/user-attachments/assets/1a050d86-5d77-403b-bd44-593dad3d566b" />
 </a>
 
 **[React + Next.js Bug Fixing →](https://www.fiverr.com/s/L3e1ax4)**
