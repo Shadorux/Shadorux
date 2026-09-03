@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="hireme" src="https://github.com/user-attachments/assets/1a050d86-5d77-403b-bd44-593dad3d566b" />
 <div align="center">
 
 # 𝐒𝐇𝐀𝐃𝐎𝐑𝐔𝐗
