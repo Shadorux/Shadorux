@@ -1,4 +1,3 @@
-<img width="1536" height="1024" alt="hireme" src="https://github.com/user-attachments/assets/1a050d86-5d77-403b-bd44-593dad3d566b" />
 <div align="center">
 
 # 𝐒𝐇𝐀𝐃𝐎𝐑𝐔𝐗
@@ -93,6 +92,24 @@ Extract perceptually distinct palettes, contrast pairs, semantic color roles, CS
 <div align="center">
 
 ### `MORE PROJECTS ARE ALWAYS ESCAPING CONTAINMENT.`
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔴 HIRE ME
+
+**Need a bug fixed in an existing React or Next.js project?**
+
+I take on focused debugging and bug-fixing work through Fiverr.
+
+<a href="https://www.fiverr.com/s/L3e1ax4">
+  <img width="600" alt="Hire me" src="https://github.com/user-attachments/assets/1a050d86-5d77-403b-bd44-593dad3d566b" />
+</a>
+
+**[React + Next.js Bug Fixing →](https://www.fiverr.com/s/L3e1ax4)**
 
 </div>
 
