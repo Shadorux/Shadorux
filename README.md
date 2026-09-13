@@ -8,12 +8,20 @@
 
 <br>
 
+<img src="./shadow.gif" alt="Shadow" height="20" />
+<img src="./all-hail-shadow.gif" alt="All Hail Shadow" height="20" />
+<img src="./black-arms.gif" alt="Black Arms" height="20" />
+<img src="./ultimate-lifeform.gif" alt="Ultimate Lifeform" height="20" />
+<img src="./shadow-symbol.gif" alt="Shadow" height="20" />
+
+<br><br>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Shadorux&label=CHAOS%20ENERGY&style=for-the-badge&color=red)
 ![GitHub followers](https://img.shields.io/github/followers/Shadorux?style=for-the-badge&logo=github&label=FOLLOWERS&color=black)
 
 **I build things fast, break limits, and add more Shadow than strictly necessary.**
 
-`CODE.` • `SHADOW.` • `SPLATOON.` • `JAPANESE.` • `CHAOS.`
+`SHADOW.` • `SHADOW.` • `SHADOW.` • `CHAOS.`
 
 </div>
 
@@ -29,28 +37,19 @@ MISSION      Build cool things. Ship fast. Leave a recognizable footprint.
 ALIGNMENT    Shadow the Hedgehog enthusiast
 ```
 
-I make web projects, tools, experiments, fandom projects, game-related utilities, and whatever else hijacks my brain long enough to become a repository.
+I make web projects, tools, experiments, fandom projects, and whatever else hijacks my brain long enough to become a repository.
 
 My code tends to live somewhere between **useful**, **strangely specific**, and **why does this have Shadow branding?**
 
 ---
 
-## 🔴 CHAOS ARSENAL
+## 🔴 CHAOS ARSENAL // LIVE
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FF0000)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FF0000)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF0000)
-![Lua](https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=FF0000)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF0000)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FF0000)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FF0000)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FF0000)
-![Svelte](https://img.shields.io/badge/Svelte-000000?style=for-the-badge&logo=svelte&logoColor=FF0000)
-![Astro](https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=FF0000)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=FF0000)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF0000)
+<a href="https://github.com/rokbenko/github-readme-statistics">
+  <img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadorux&layout=compact&langs_count=10&hide_border=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&custom_title=LANGUAGE%20DISTRIBUTION&size_weight=0.5&count_weight=0.5" alt="Live language distribution" />
+</a>
 
 </div>
 
@@ -73,43 +72,11 @@ A project carrying the only title appropriate for this profile.
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### [GuildScope](https://github.com/Shadorux/GuildScope)
-Visual Discord permission inspector for mapping channel access across roles, detecting permission drift, and simulating role combinations.
-
-</td>
-<td width="50%" valign="top">
-
-### [UltimatePalette](https://github.com/Shadorux/UltimatePalette)
-Extract perceptually distinct palettes, contrast pairs, semantic color roles, CSS variables, Tailwind tokens, and swatches from any image. **[Try it live →](https://ultimatepallete.shadorux.dev)**
-
-</td>
-</tr>
 </table>
 
 <div align="center">
 
-### `MORE PROJECTS ARE ALWAYS ESCAPING CONTAINMENT.`
-
-</div>
-
----
-
-<div align="center">
-
-## 🔴 HIRE ME
-
-**Need a bug fixed in an existing React or Next.js project?**
-
-I take on focused debugging and bug-fixing work through Fiverr.
-
-<a href="https://www.fiverr.com/s/L3e1ax4">
-  <img width="360" alt="Hire me" src="https://github.com/user-attachments/assets/1a050d86-5d77-403b-bd44-593dad3d566b" />
-</a>
-
-**[React + Next.js Bug Fixing →](https://www.fiverr.com/s/L3e1ax4)**
+### `MORE SHADOW IS ALWAYS ESCAPING CONTAINMENT.`
 
 </div>
 
@@ -120,24 +87,38 @@ I take on focused debugging and bug-fixing work through Fiverr.
 <div align="center">
 
 [![MAIN SITE](https://img.shields.io/badge/SHADORUX.DEV-MAIN%20SITE-FF0000?style=for-the-badge&labelColor=000000)](https://shadorux.dev)
-[![SHADOW SHRINE](https://img.shields.io/badge/SHADOW-SHRINE-FF0000?style=for-the-badge&labelColor=000000)](https://shadow-shrine.vercel.app/)
+[![SHADOW SHRINE](https://img.shields.io/badge/SHADOW-SHRINE-FF0000?style=for-the-badge&labelColor=000000)](https://shadowshrine.shadorux.dev/home)
 [![SHADORUX ARCHIVE](https://img.shields.io/badge/SHADORUX-ARCHIVE-FF0000?style=for-the-badge&labelColor=000000)](https://shadorux-archive.shadorux.dev/)
-[![LAST.FM](https://img.shields.io/badge/LAST.FM-ULTLIFEFORM_-FF0000?style=for-the-badge&logo=lastdotfm&logoColor=white&labelColor=000000)](https://www.last.fm/user/ultlifeform_)
 
 </div>
 
 ---
 
-## 📊 CHAOS DATA
+## 📊 CHAOS DATA // LIVE
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shadorux&show_icons=true&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff" alt="Shadorux GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadorux&layout=compact&hide_border=true&bg_color=000000&title_color=ff0000&text_color=ffffff" alt="Shadorux top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shadorux&show_icons=true&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff&include_all_commits=true" alt="Live Shadorux GitHub stats" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=Shadorux&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&timezone=America%2FNew_York" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=Shadorux&theme=dark&hide_border=true&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&timezone=America%2FNew_York" alt="Live GitHub streak" />
+
+</div>
+
+---
+
+## 🎧 LAST.FM // LIVE
+
+<div align="center">
+
+<a href="https://www.last.fm/user/ultlifeform_">
+  <img src="https://lastfm-recently-played.vercel.app/api?user=ultlifeform_&count=5&width=600" alt="ultlifeform_ recently played" />
+</a>
+
+<br>
+
+[![LAST.FM](https://img.shields.io/badge/LAST.FM-ULTLIFEFORM_-FF0000?style=for-the-badge&logo=lastdotfm&logoColor=white&labelColor=000000)](https://www.last.fm/user/ultlifeform_)
 
 </div>
 
