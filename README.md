@@ -72,6 +72,20 @@ A project carrying the only title appropriate for this profile.
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [GuildScope](https://github.com/Shadorux/GuildScope)
+Visual Discord permission inspector for mapping channel access across roles, detecting permission drift, and simulating role combinations.
+
+</td>
+<td width="50%" valign="top">
+
+### [UltimatePalette](https://github.com/Shadorux/UltimatePalette)
+Extract perceptually distinct palettes, contrast pairs, semantic color roles, CSS variables, Tailwind tokens, and swatches from any image. **[Try it live →](https://ultimatepallete.shadorux.dev)**
+
+</td>
+</tr>
 </table>
 
 <div align="center">
