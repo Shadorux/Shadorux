@@ -2,7 +2,7 @@
 
 # 𝐒𝐇𝐀𝐃𝐎𝐑𝐔𝐗
 
-### `SHADOW THE HEDGEHOG // SPECIAL INTEREST // CODE ARCHIVE`
+### `SHADOW THE HEDGEHOG`
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHFiaTNmc3A4bGx3dXVvN3NkdWIzcW4xOThiZ3Zwa2l1MHh6eHhjMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ER5u3u7LWgj7BYVx6D/giphy.gif" width="520" alt="Shadow the Hedgehog" />
 
@@ -19,8 +19,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Shadorux&label=CHAOS%20ENERGY&style=for-the-badge&color=red)
 ![GitHub followers](https://img.shields.io/github/followers/Shadorux?style=for-the-badge&logo=github&label=FOLLOWERS&color=black)
 
-`SHADOW THE HEDGEHOG IS MY SPECIAL INTEREST.`
-
 </div>
 
 ---
@@ -28,14 +26,9 @@
 ## 🔴 SHADOW // SYSTEM
 
 ```text
-SUBJECT           SHADOW THE HEDGEHOG
-SPECIAL_INTEREST  ACTIVE
-ARCHIVE            SHADORUX.DEV
-MODE               CATALOG / PRESERVE / BUILD
-STATUS             ONLINE
+SUBJECT    SHADOW THE HEDGEHOG
+STATUS     ONLINE
 ```
-
-I build and maintain an interconnected Shadow the Hedgehog web ecosystem: fan sites, archives, graphics, resources, tools, and code. The point of this profile is Shadow.
 
 ---
 
@@ -53,15 +46,11 @@ I build and maintain an interconnected Shadow the Hedgehog web ecosystem: fan si
 SHADOW DATABASE // NODES
 ────────────────────────────────────────────────────
 shadorux.dev                   MAIN SITE / WESTOPOLIS
-shadowshrine.shadorux.dev      SHRINE
-shadorux-archive.shadorux.dev  GRAPHICS / ARCHIVE
-
-COLLECTION                     BLINKIES / GRAPHICS / WEB MATERIAL
-RESEARCH                       FAN SITES / INTERNET HISTORY
-BUILD                          SHADOW-THEMED CODE / WEB TOOLS
+shadowshrine.shadorux.dev      SHADOW SHRINE
+shadorux-archive.shadorux.dev  SHADOW ARCHIVE
 ```
 
-### Shadow-linked repositories
+### Shadow repositories
 
 - [shadow-the-hedgehog-css](https://github.com/Shadorux/shadow-the-hedgehog-css)
 - [ultimate-lifeform-translator](https://github.com/Shadorux/ultimate-lifeform-translator)
@@ -76,8 +65,6 @@ BUILD                          SHADOW-THEMED CODE / WEB TOOLS
 <img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadorux&layout=donut&langs_count=8&hide_border=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000" alt="Live repository language distribution" />
 
 </div>
-
-This card is calculated from the languages GitHub detects across my repositories rather than a hand-written technology list.
 
 ---
 
