@@ -47,9 +47,9 @@ My code tends to live somewhere between **useful**, **strangely specific**, and 
 
 <div align="center">
 
-<a href="https://github.com/rokbenko/github-readme-statistics">
-  <img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadorux&layout=compact&langs_count=10&hide_border=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&custom_title=LANGUAGE%20DISTRIBUTION&size_weight=0.5&count_weight=0.5" alt="Live language distribution" />
-</a>
+<img src="./language-stats.svg" width="760" alt="Live Shadorux code language distribution across public repositories" />
+
+<sub>Generated directly from GitHub's repository language data and refreshed automatically.</sub>
 
 </div>
 
