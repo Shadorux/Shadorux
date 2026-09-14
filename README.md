@@ -102,7 +102,7 @@ Extract perceptually distinct palettes, contrast pairs, semantic color roles, CS
 
 [![MAIN SITE](https://img.shields.io/badge/SHADORUX.DEV-MAIN%20SITE-FF0000?style=for-the-badge&labelColor=000000)](https://shadorux.dev)
 [![SHADOW SHRINE](https://img.shields.io/badge/SHADOW-SHRINE-FF0000?style=for-the-badge&labelColor=000000)](https://shadowshrine.shadorux.dev/home)
-[![SHADORUX ARCHIVE](https://img.shields.io/badge/SHADORUX-ARCHIVE-FF0000?style=for-the-badge&labelColor=000000)](https://shadorux-archive.shadorux.dev/)
+[![SHADOW ARCHIVE](https://img.shields.io/badge/SHADOW-ARCHIVE-FF0000?style=for-the-badge&labelColor=000000)](https://shadow-archive.shadorux.dev/)
 
 <br><br>
 
