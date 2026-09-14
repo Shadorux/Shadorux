@@ -104,6 +104,10 @@ Extract perceptually distinct palettes, contrast pairs, semantic color roles, CS
 [![SHADOW SHRINE](https://img.shields.io/badge/SHADOW-SHRINE-FF0000?style=for-the-badge&labelColor=000000)](https://shadowshrine.shadorux.dev/home)
 [![SHADORUX ARCHIVE](https://img.shields.io/badge/SHADORUX-ARCHIVE-FF0000?style=for-the-badge&labelColor=000000)](https://shadorux-archive.shadorux.dev/)
 
+<br><br>
+
+<img src="https://shadorux.dev/api/network-status" width="760" alt="Live Shadorux network status and response times" />
+
 </div>
 
 ---
@@ -122,12 +126,12 @@ Extract perceptually distinct palettes, contrast pairs, semantic color roles, CS
 
 ---
 
-## 🎧 LAST.FM // LIVE
+## 🎧 CURRENTLY LISTENING // LIVE
 
 <div align="center">
 
 <a href="https://www.last.fm/user/ultlifeform_">
-  <img src="https://lastfm-recently-played.vercel.app/api?user=ultlifeform_&count=5&width=600" alt="ultlifeform_ recently played" />
+  <img src="https://shadorux.dev/api/lastfm-listening" width="760" alt="Shadorux currently listening on Last.fm" />
 </a>
 
 <br>
