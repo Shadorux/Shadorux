@@ -47,9 +47,9 @@ My code tends to live somewhere between **useful**, **strangely specific**, and 
 
 <div align="center">
 
-<img src="./language-stats.svg" width="760" alt="Live Shadorux code language distribution across public repositories" />
+<img src="https://shadorux.dev/api/github-language-stats" width="760" alt="Live Shadorux code language distribution across public repositories" />
 
-<sub>Generated directly from GitHub's repository language data and refreshed automatically.</sub>
+<sub>Self-hosted by Shadorux · generated from GitHub repository language data · cached for one hour.</sub>
 
 </div>
 
