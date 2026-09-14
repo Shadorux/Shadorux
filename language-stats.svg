@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="240" viewBox="0 0 760 240">
+  <rect width="100%" height="100%" rx="14" fill="#050505"/>
+  <rect x="1" y="1" width="758" height="238" rx="13" fill="none" stroke="#2f333a"/>
+  <rect x="28" y="24" width="5" height="54" rx="2" fill="#ff0000"/>
+  <text x="50" y="47" fill="#ff2020" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2">CHAOS ARSENAL // LIVE</text>
+  <text x="50" y="76" fill="#ffffff" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700">CURRENT CODE LANGUAGE DISTRIBUTION</text>
+  <text x="50" y="122" fill="#ffffff" font-family="Segoe UI,Arial,sans-serif" font-size="16">First GitHub language sync is initializing...</text>
+  <rect x="50" y="148" width="610" height="14" rx="7" fill="#17191d"/>
+  <rect x="50" y="148" width="210" height="14" rx="7" fill="#ff0000"/>
+  <text x="50" y="202" fill="#6e7681" font-family="Consolas,monospace" font-size="10">SELF-HOSTED IN SHADORUX/SHADORUX · NO EXTERNAL STATS CARD SERVICE</text>
+</svg>
