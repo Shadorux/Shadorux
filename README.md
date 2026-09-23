@@ -21,6 +21,12 @@
 
 **I build things fast, break limits, and add more Shadow than strictly necessary.**
 
+### `FOLLOW THE SIGNAL`
+
+I build and maintain **[Shadorux.dev](https://shadorux.dev/)**, open-source developer tools, and Shadow the Hedgehog fan-web projects.
+
+**Follow for new Shadorux releases, developer tools, and Shadow projects as I ship them.**
+
 `SHADOW.` • `SHADOW.` • `SHADOW.` • `CHAOS.`
 
 </div>
@@ -67,8 +73,8 @@ Shadow-flavored CSS because normal stylesheets clearly weren't dramatic enough.
 </td>
 <td width="50%" valign="top">
 
-### [ultimate-lifeform-translator](https://github.com/Shadorux/ultimate-lifeform-translator)
-A project carrying the only title appropriate for this profile.
+### [indie-site-audit](https://github.com/Shadorux/indie-site-audit)
+Free website health checks for indie sites: SEO, accessibility signals, metadata, feeds, robots.txt, sitemaps, and discoverability.
 
 </td>
 </tr>
@@ -83,6 +89,20 @@ Visual Discord permission inspector for mapping channel access across roles, det
 
 ### [UltimatePalette](https://github.com/Shadorux/UltimatePalette)
 Extract perceptually distinct palettes, contrast pairs, semantic color roles, CSS variables, Tailwind tokens, and swatches from any image. **[Try it live →](https://ultimatepallete.shadorux.dev)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [RuleBridge](https://github.com/Shadorux/RuleBridge)
+ESLint-style conflict detection for coding-agent instructions across Codex, Claude Code, Cursor, and Copilot.
+
+</td>
+<td width="50%" valign="top">
+
+### [awesome-shadow-the-hedgehog](https://github.com/Shadorux/awesome-shadow-the-hedgehog)
+A curated directory of Shadow the Hedgehog fan sites, archives, projects, tools, mods, communities, and resources.
 
 </td>
 </tr>
@@ -148,7 +168,7 @@ Extract perceptually distinct palettes, contrast pairs, semantic color roles, CS
 
 **You reached the bottom. Impressive.**
 
-If something here looks interesting, dig through the repositories.
+If something here looks interesting, **follow along** — new tools, Shadorux releases, and Shadow projects keep escaping containment.
 
 ### `WELCOME TO THE SHADORUX ZONE.`
 
