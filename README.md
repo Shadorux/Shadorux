@@ -1,6 +1,6 @@
 <div align="center">
 
-# 𝐒𝐇𝐀𝐃𝐎𝐑𝐔𝐗
+<img src="./shadorux-animated.gif" width="760" alt="SHADORUX animated wordmark" />
 
 ### `THE ULTIMATE LIFEFORM // DEVELOPER // CREATOR`
 
