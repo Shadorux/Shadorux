@@ -46,8 +46,10 @@ ALIGNMENT    Shadow the Hedgehog enthusiast
 I make web projects, tools, experiments, fandom projects, and whatever else hijacks my brain long enough to become a repository.
 
 My code tends to live somewhere between **useful**, **strangely specific**, and **why does this have Shadow branding?**
+<p align="center">
+  <img src="shadowrux.png" alt="Shadorux" width="700">
+</p>
 
----
 
 ## 🔴 CHAOS ARSENAL // LIVE
 
